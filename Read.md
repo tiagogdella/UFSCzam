@@ -1,4 +1,4 @@
-# EchoPrint
+# UFSCzam
 
 Sistema de identificação musical por fingerprinting de áudio.
 Projeto final da disciplina de Sistemas Multimídia (CIT7596) — UFSC Araranguá, 2026.1.
